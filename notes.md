@@ -10,3 +10,7 @@
 - `npx create-next-app@latest` - Install NextJS
   - install tailwind
 - `npm i react-icons` - React Icons
+
+## Run
+
+`npm run dev` - start next server
